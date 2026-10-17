@@ -13,7 +13,6 @@ __pycache__/
 venv/
 env/
 ENV/
-docs/
 
 # =========================
 # Dataset
@@ -22,6 +21,7 @@ docs/
 data/*.csv
 data/*.xlsx
 data/*.xls
+docs/
 
 # =========================
 # Trained Models
@@ -29,7 +29,6 @@ data/*.xls
 models/*.pkl
 models/*.joblib
 models/*.model
-models/*.xml
 
 # =========================
 # Generated Results
